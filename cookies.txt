@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.amazongames.com	TRUE	/	FALSE	1999999999	ubid-main	131-1769018-7166729
+.amazongames.com	TRUE	/	FALSE	1999999999	session-id	146-1010215-7581508
+.amazongames.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+.amazongames.com	TRUE	/	FALSE	1999999999	session-token	LsUGWifoE4X6uohRqbVl5x31b9Zdq3GAMgH5SSiRXckrcvmcK9cYKagNRGxiRTn9osMGaH1EDjQiwoTbvKVG8RSwc8xn9GrITg3n4UvqIJARlXLvTu237y7ePSaCtXvwMs7/Q0Mvsy2mTClITfNC0rv1LA7oNpshcBsoIIkHof7blKdZFQNofGxm7shZhOX2
+
